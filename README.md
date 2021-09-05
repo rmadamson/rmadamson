@@ -26,23 +26,28 @@ I like technology, solving problems, and generally helping folks live their best
 
 # (somewhat?) Notable stuff I've Been Up To
 ### 2021 ###
+Doubling down on the successes from past years
   - Exascale Computing with Elastic: https://www.elastic.co/elasticon/global/agenda?solutionProduct=null&type=null&technicalLevel=null&day=day-2
   - Exascale Computing Project Podcast (Episode 78): https://www.exascaleproject.org/ensuring-the-exascale-ecosystem-lands-successfully-at-energy-department-facilities/
   - https://www.exascaleproject.org/continuous-integration-the-path-to-the-future-for-hpc/
 ### 2020 ###
+Gotta bring that #devsecops to the scientific computing software stack
   - https://www.olcf.ornl.gov/2020/11/18/olcf-researchers-staff-recognized-on-ut-battelle-awards-night/
   - Exascale Computing Project Podcast (Episode 50): https://www.exascaleproject.org/tackling-the-complex-task-of-software-deployment-and-continuous-integration-at-facilities/
   - https://www.exascaleproject.org/exascale-computing-project-announces-three-new-leaders-for-the-projects-hardware-and-integration-group/
 ### 2019 ###
+Clearly #blueteam needs more data, but in a scalable way
   - https://www.olcf.ornl.gov/2019/12/16/olcf-supercharges-supercomputer-analytics-with-apache-kafka/
   - https://www.olcf.ornl.gov/2019/01/17/nccs-introduces-hpc-core-operations-group/
   - https://www.olcf.ornl.gov/2019/01/17/ornl-security-teams-prepare-to-take-the-heat-with-cyber-fire/
 ### 2018 ###
+Found several notable vulns on the fastest #hpc resource in the world
   - https://www-01.ibm.com/support/docview.wss?uid=ibm10734239
   - https://www-01.ibm.com/support/docview.wss?uid=ibm10733555
   - http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1724
   - http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1782
 ### <= 2017 ###
+Just tryna modernize scientific workflows with the latest and greatest industry best practices
   - https://www.olcf.ornl.gov/2017/05/09/containers-provide-access-to-deep-learning-frameworks/
   - https://www.olcf.ornl.gov/2017/03/28/olcf-staff-develops-digital-object-identifier-framework-to-facilitate-open-access-to-datasets/
   - https://www.osti.gov/biblio/1460236-big-data-meets-hpc-log-analytics-scalable-approach-understanding-systems-extreme-scale
