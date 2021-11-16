@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Writeups
+I like to write up the interesting things that I find.  Here are some of the ones that I've presented to the #SANSHackFest:
+  - [Eauth Privilege Escalation](https://github.com/rmadamson/rmadamson/blob/main/writeups/CVE-2018-1724_eauth.md)
+  - [Burst Buffer SetUID Escalation](https://github.com/rmadamson/rmadamson/blob/main/writeups/CVE-2018-1703_bbsetuid.md)
+  - [Burst Buffer Proxy Command Injection](https://github.com/rmadamson/rmadamson/blob/main/writeups/CVE-2018-1776_bbproxy.md)
+
 # About Me
 
 I like technology, solving problems, and generally helping folks live their best life.  Open science is a passion.  I love sharing ideas, mentoring, being mentored, and hacking on cool things.  Feel free to msg, although I can't promise to get back to you right away depending on how busy life gets!
