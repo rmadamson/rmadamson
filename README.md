@@ -33,7 +33,7 @@ I like technology, solving problems, and generally helping folks live their best
 
 # A selection of stuff I've been working on
 ### 2021 ###
-  - Hacking the Gibson at [SANS PenTest Hack Fest](https://www.sans.org/cyber-security-training-events/pen-test-hackfest-2021-live-online/), with some writeups! (Nov 16-17)
+  - Hacking the Gibson! [SANS PenTest Hack Fest](https://www.sans.org/cyber-security-training-events/pen-test-hackfest-2021-live-online/), with some writeups! (Nov 16-17)
   - [Exascale Computing with Elastic](https://www.elastic.co/elasticon/global/agenda?solutionProduct=null&type=null&technicalLevel=null&day=day-2)
   - [Exascale Computing Project Podcast (Episode 78)](https://www.exascaleproject.org/ensuring-the-exascale-ecosystem-lands-successfully-at-energy-department-facilities/)
   - [Continuous Integration For the Scientific Software Stack](https://www.exascaleproject.org/continuous-integration-the-path-to-the-future-for-hpc/)
